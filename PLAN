@@ -4,6 +4,9 @@ laborjournal - Datenstrukturen für Versuchsprotokolle
 Versuchsprotokolle sollen in einem einheitlichen Schema angelegt
 werden, so dass sie sich gut spezifisch durchsuchen lassen.
 
+Backend: Phyton, MariaDB
+Frontend: Web, mögl. Mediawiki-Plugin
+
 
 Jedes Protokoll sollte die folgenden Punkte beinhalten:
 
