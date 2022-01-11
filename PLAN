@@ -1,0 +1,33 @@
+laborjournal - Datenstrukturen für Versuchsprotokolle
+
+
+Jedes Protokoll sollte die folgenden Punkte beinhalten:
+
+- Literatur
+- Datum, Uhrzeit, Gesamt-Dauer
+- Gliederung in Einzelschritte
+    - Beschreibung des Aufbaus und der Durchführung
+        - Reaktions-Edukte
+        - benötigte Geräte
+	- Reaktionsbedingungen
+	    - Temperatur
+	    - Besonderheiten (Luftabschluss, Licht)
+    - Beobachtungen
+    - Reaktionsgleichung
+    - Reaktionsprodukte
+    - Nebenreaktionen
+    - Nebenprodukte
+- ggf. Dateien, z.B. Fotos, autom. Messprotokolle
+
+- Für alle Substanzen (Edukte, Produkte, Nebenprodukte):
+    - Gefahrensätze, -symbole
+    - Substanzdatenbank
+    - Link auf Wikipedia
+
+- Für elektrochemische Versuche
+    - Anoden-/Kathoden -material, -oberfläche
+    - ggf Membran
+        - Material
+	- Elektrolyt Anoden-/Kathodenraum
+    - Spannung / Stromstärke
+
