@@ -1,12 +1,12 @@
-laborjournal - Datenstrukturen für Versuchsprotokolle
-
+laborjournal - Datenstrukturen für chemische Versuchsprotokolle
+===============================================================
 
 Versuchsprotokolle sollen in einem einheitlichen Schema angelegt
 werden, so dass sie sich gut spezifisch durchsuchen lassen.
 
 Backend: Phyton, MariaDB
-Frontend: Web, mögl. Mediawiki-Plugin
-
+Frontends: Web, mögl. Mediawiki-Plugin
+           LaTeX
 
 Jedes Protokoll sollte die folgenden Punkte beinhalten:
 
@@ -15,6 +15,9 @@ Jedes Protokoll sollte die folgenden Punkte beinhalten:
 - Gliederung in Einzelschritte
     - Beschreibung des Aufbaus und der Durchführung
         - Reaktions-Edukte
+	- ggf. Lösungsmittel
+	- ggf. Katalysatoren
+	- ggf. weitere Chemikalien
         - benötigte Geräte
 	- Reaktionsbedingungen
 	    - Temperatur
@@ -30,11 +33,12 @@ Jedes Protokoll sollte die folgenden Punkte beinhalten:
     - Gefahrensätze, -symbole
     - Substanzdatenbank
     - Link auf Wikipedia
+    - auch Stoffe, die keine definierten Verbindungen sind, z.B. Holz
 
 - Für elektrochemische Versuche
     - Anoden-/Kathoden -material, -oberfläche
     - ggf Membran
         - Material
 	- Elektrolyt Anoden-/Kathodenraum
-    - Spannung / Stromstärke
+    - Spannung / Stromstärke  (als Bereich)
 
