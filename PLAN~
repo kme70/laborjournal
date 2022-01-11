@@ -1,10 +1,6 @@
 laborjournal - Datenstrukturen für Versuchsprotokolle
 
 
-Versuchsprotokolle sollen in einem einheitlichen Schema angelegt
-werden, so dass sie sich gut spezifisch durchsuchen lassen.
-
-
 Jedes Protokoll sollte die folgenden Punkte beinhalten:
 
 - Literatur
@@ -24,7 +20,7 @@ Jedes Protokoll sollte die folgenden Punkte beinhalten:
 - ggf. Dateien, z.B. Fotos, autom. Messprotokolle
 
 - Für alle Substanzen (Edukte, Produkte, Nebenprodukte):
-    - Gefahrensätze, -symbole
+    - Gefahrensätze
     - Substanzdatenbank
     - Link auf Wikipedia
 
